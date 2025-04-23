@@ -39,7 +39,7 @@ flutter:
       android:
         dartPluginClass: QuillHtmlEditor
       ios:
-        pluginClass: QuillHtmlEditorPlugin
+        dartPluginClass: QuillHtmlEditor
       web:
         default_package: quill_html_editor
   assets:
