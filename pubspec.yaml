@@ -34,7 +34,7 @@ flutter:
   plugin:
     platforms:
       android:
-        pluginClass: QuillHtmlEditorPlugin
+        dartPluginClass: QuillHtmlEditor
       ios:
         pluginClass: QuillHtmlEditorPlugin
       web:
